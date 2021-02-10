@@ -20,7 +20,7 @@ related metric. See the function `run` below for more details.
 This demo is a slightly modified version of
 tensorboard/plugins/scalar/scalar_demo.py.
 
-See also `hparams_minimal_demo.py` in this directory for a demo that
+See also `hparams_demo.py` in this directory for a demo that
 trains real MNIST models instead of using synthetic data, at the cost of
 taking much longer to run.
 """
